@@ -1,4 +1,4 @@
-//Tree preorder traversal 
+//Tree preorder,inorder and postorder traversal 
 #include <iostream>
 
 using namespace std;
